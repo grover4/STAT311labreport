@@ -1,0 +1,33 @@
+---
+title: "Lab Name"
+author: "Author Name"
+date: "`r Sys.Date()"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#specify global options, load packages, read data in this code chunk
+
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE,
+                      warning = FALSE)
+
+library(tidyverse)
+library(openintro) 
+```
+
+## Exercises
+
+### Exercise 1
+
+Insert text here
+    
+```{r code-chunk-label}
+#Insert code for Exercise 1 here 
+
+```
+
+
+### Exercise 2 
+
+...
