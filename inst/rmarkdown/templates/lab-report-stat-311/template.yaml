@@ -1,4 +1,4 @@
 name: Lab Report for STAT 311
 description: >
    This template automatically echoes code chunks and suppresses messages and warnings
-create_dir: FALSE
+create_dir: TRUE
